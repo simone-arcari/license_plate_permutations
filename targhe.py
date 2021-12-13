@@ -66,6 +66,3 @@ while targa != ultimaTargaImmatricolata and targa != ultimaTargaPossibile:
 else:
     if targa == ultimaTargaImmatricolata:
         print("La targa cercata è: " + targa + "\t\tRisulta la numero: " + str(contatore))
-
-    
-    
